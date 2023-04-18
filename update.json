@@ -1,11 +1,11 @@
 {
-    "version": "v0.0.2",
+    "version": "v0.0.3",
     "notes": "测试",
     "pub_date": "2023-03-05T04:36:52.255Z",
     "platforms": {
         "windows-x86_64": {
-          "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMVNkVUI1S2h1MldyTjlIaCtHK2JJNSt6ZWs4U05CN0NteXFoSjJ1RGhZUi90bzFOUUtuTTdLSnB0cmxLRXBLQnEzc1JGWG0vSWl3K3R6YUdxTjV6QUtxZ2FETmoyeEFnPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxNzg4NjUyCWZpbGU6dmlkZW9fZG93bmxvYWRfMC4wLjJfeDY0X3poLUNOLm1zaS56aXAKcGNzRDdnVFVKVVA2M1BVdklVajY5YWRtRzlHbEdQdVBLM3dVNnB6THdJYm5vYnpMRmRLbG5wbytxa3ZxdHNMMmk2Ky9QQXFyVFRucjIxUWNPNDU2Q0E9PQo=",
-          "url": "https://yangking.asia/video_download_0.0.2_x64_zh-CN.msi.zip"
+          "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUMVNkVUI1S2h1MlNzcEZSeE9CS21IWEJOWXRFbnpKd2pubi9Uclo3akN2WmpvMUFpbFpjMitzN3hwb2tiaGxLZlY0clBQMGlEQTBiSlh0TTI5dzk4YVh4YUw1WGNFbHdvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNjgxNzkwMzMxCWZpbGU6dmlkZW9fZG93bmxvYWRfMC4wLjNfeDY0X3poLUNOLm1zaS56aXAKMHBzMnFzTHU1L0M3cnEzRnJSdjF5bndmOGlobEo1QTVIaWx3WjBucGtYK0haRmFmTUpTRWJYQnZmb2hmY0dXMlVjeU4wejY1ZDZGZWdKSFlCQmpaQlE9PQo=",
+          "url": "https://yangking.asia/video_download_0.0.3_x64_zh-CN.msi.zip"
         }
     }
 }
